@@ -7,8 +7,10 @@ You can add them yourself with the tools from [pdf.tocgen](https://krasjet.com/v
 
 # Which ones are provided so far.
 
-- Story of the World (25th edition). Only the main book.
-- Ordinary Parent's Guide to Teaching Spelling (Revised edition). Both the student and instructor books.
+- Story of the World (25th edition).
+    - Only the [main book](sotw_toc)
+- Ordinary Parent's Guide to Teaching Spelling (Revised edition).
+    - Both the [student](opg_student_toc) and [instructor](opg_instructor_toc) books.
 
 # The fast version.
 
