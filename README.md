@@ -23,6 +23,8 @@ You can add them yourself with the tools from [pdf.tocgen](https://krasjet.com/v
     - [Level 1](writing-with-ease-1.toc)
 - Exploring the World Through Story (from Stonesoup Press, not Well Trained Mind)
     - [Level A](exploring-the-world-through-story-a.toc)
+- Easy Grammar (from Easy Grammar Systems, not Well Trained Mind)
+    - [Level 1](easy-grammar-1.toc)
 
 # The fast version.
 
