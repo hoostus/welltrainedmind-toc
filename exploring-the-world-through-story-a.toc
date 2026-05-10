@@ -1,0 +1,39 @@
+"Required Materials" 7
+"Schedule" 8
+"Lesson A-1 “Belling the Cat” Aesop’s Fables for Children , p. 15 1" 11
+"Lesson A-2 “Thunder and Lightning” How and Why Stories, p. 15 Ibibio People (Nigeria)" 15
+"Lesson A-3 “Hercules and the Wagoner” Aesop’s Fables for Children , p. 17 Ancient Greece" 18
+"Lesson A-4 “How Tigers Got Their Stripes” How and Why Stories , p. 18 Vietnam" 21
+"Lesson A-5 “The Town Mouse and the Country Mouse” Aesop’s Fables for Children , p. 18 Ancient Greece" 24
+"Lesson A-6 “Why Bat Flies Alone at Night” How and Why Stories , p. 21 Modoc People (Southern Oregon and Northern California)" 26
+"Lesson A-7 “The Fox and the Grapes” Aesop’s Fables for Children , p. 20 Ancient Greece" 28
+"Lesson A-8 “The Mill at the Bottom of the Sea” How and Why Stories , p. 23 Korea" 31
+"Lesson A-9 “The Lion and the Mouse” Aesop’s Fables for Children , p. 23 Ancient Greece" 34
+"Lesson A-10 “Why Ants Are Found Everywhere” How and Why Stories , p. 28 Myanmar" 36
+"Lesson A-11 “The Shepherd Boy and the Wolf” Aesop’s Fables for Children , p. 24 Ancient Greece" 38
+"Lesson A-12 “Why the Baby Says ‘Goo’”" 40
+"Lesson A-13 “The Oak and the Reeds” Aesop’s Fables for Children , p. 32 Ancient Greece" 43
+"Lesson A-14 “Why Hens Scratch in the Dirt”" 46
+"Lesson A-15 “The Crow and the Pitcher” Aesop’s Fables for Children , p. 34 Ancient Greece" 48
+"Lesson A-16 “Why the Sun Comes Up When Rooster Crows”" 51
+"Lesson A-17 “The Ants and the Grasshopper” Aesop’s Fables for Children , p. 34 Ancient Greece" 54
+"Lesson A-18 “Why Dogs Chase Cats” How and Why Stories , p. 44 African American" 57
+"Lesson A-19 “The Dog in the Manger” Aesop’s Fables for Children , p. 59 Ancient Greece" 60
+"Lesson A-20 “The Turtle Who Couldn’t Stop Talking” How and Why Stories , p. 49 India" 63
+"Lesson A-21 “The Goose and the Golden Egg” Aesop’s Fables for Children , p. 66 Ancient Greece" 66
+"Lesson A-22 “The Story of Arachne” How and Why Stories , p. 51 Ancient Greece" 69
+"Lesson A-23 “Mercury and the Woodman” Aesop’s Fables for Children , p. 72 Ancient Greece" 72
+"Lesson A-24 “Rabbit Counts the Crocodiles” How and Why Stories , p. 54 Japan" 75
+"Lesson A-25 “The Wolf in Sheep’s Clothing” Aesop’s Fables for Children , p. 75 Ancient Greece" 78
+"Lesson A-26 “How Brazilian Beetles Got Their Gorgeous Coats” How and Why Stories , p. 59 Brazil" 81
+"Lesson A-27 “The Hare and the Tortoise” Aesop’s Fables for Children , p. 96 Ancient Greece" 84
+"Lesson A-28 “Why Parrots Only Repeat What People Say” How and Why Stories , p. 64 Thailand" 87
+"Lesson A-29 “The North Wind and the Sun” Aesop’s Fables for Children , p. 109 Ancient Greece" 90
+"Lesson A-30 “How Owl Got His Feathers” How and Why Stories , p. 69 Puerto Rico" 93
+"Lesson A-31 “The Fox and the Stork” Aesop’s Fables for Children , p. 44 Ancient Greece" 96
+"Lesson A-32 “Two Brothers, Two Rewards” How and Why Stories , p. 71 East Asia (China/Korea/Japan)" 99
+"Lesson A-33 “The Young Crab and His Mother” Aesop’s Fables for Children , p. 13 Ancient Greece" 102
+"Lesson A-34 “Why Bear Has a Stumpy Tail” How and Why Stories , p. 74 Norway" 105
+"Lesson A-35 “The Milkmaid and Her Pail” Aesop’s Fables for Children , p. 80 Ancient Greece" 108
+"Lesson A-36 “Where All Stories Come From” How and Why Stories , p. 76 Onandowaga/Seneca Nation (Northeast USA)" 111
+"Maps" 114
