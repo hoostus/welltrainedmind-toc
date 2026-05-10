@@ -11,6 +11,8 @@ You can add them yourself with the tools from [pdf.tocgen](https://krasjet.com/v
     - Only the [main book](sotw_toc)
 - Ordinary Parent's Guide to Teaching Spelling (Revised edition).
     - Both the [student](opg_student_toc) and [instructor](opg_instructor_toc) books.
+- First Language Lessons
+    - [Level 1](first-language-lessons-1.toc)
 
 # The fast version.
 
