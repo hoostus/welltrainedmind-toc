@@ -12,6 +12,7 @@ You can add them yourself with the tools from [pdf.tocgen](https://krasjet.com/v
         - [Main book](story-of-the-world-25th-1.toc)
         - [Instructor Guide](story-of-the-world-25th-1-instructor.toc)
         - [Tests and Answer Key](story-of-the-world-25th-1-tests.toc)
+        - [Student's Book](story-of-the-world-25th-1-student.toc)
 - Ordinary Parent's Guide to Teaching Spelling (Revised edition).
     - [Student Book](ordinary-parents-guide-to-teaching-reading-revised-student.toc)
     - [Instructor Book](ordinary-parents-guide-to-teaching-reading-revised-instructors.toc)
