@@ -9,6 +9,7 @@ You can add them yourself with the tools from [pdf.tocgen](https://krasjet.com/v
 
 - Story of the World (25th edition).
     - [Volume 1](story-of-the-world-25th-1.toc)
+    - [Instructor Guide 1](story-of-the-world-25th-1-instructor.toc)
 - Ordinary Parent's Guide to Teaching Spelling (Revised edition).
     - [Student Book](ordinary-parents-guide-to-teaching-reading-revised-student.toc)
     - [Instructor Book](ordinary-parents-guide-to-teaching-reading-revised-instructors.toc)
