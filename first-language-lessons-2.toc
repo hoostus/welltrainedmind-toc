@@ -24,7 +24,7 @@
 "Lesson 8" 33
     "Linking Verbs" 33
 "Lesson 9" 34
-    "Story Narration: “The Camel’S Nose”" 34
+    "Story Narration: “The Camel’s Nose”" 34
 "Lesson 10" 37
     "Linking Verbs" 37
 "Lesson 11" 39
@@ -135,7 +135,7 @@
 "Lesson 42" 110
     "Titles Of Respect" 110
     "Adjectives" 110
-    "Quotation Marks 110"
+    "Quotation Marks" 110
     "Dictation Exercise: “Who Will Help Me?”" 110
 "Lesson 43" 113
     "Four Types Of Sentences" 113
@@ -153,7 +153,7 @@
     "Picture Narration: “At This The Whole Pack Rose Up Into The Air...” By Arthur Rackham" 123
 "Lesson 47" 125
     "Introducing Adverbs" 125
-    "Dictation Exercise: “I Ate My Supper”
+    "Dictation Exercise: “I Ate My Supper”" 125
     "Poem Review: “The Year” (Lesson 31)" 125
 "Lesson 48" 127
     "Adverbs" 127
@@ -172,7 +172,7 @@
     "Months Of The Year" 133
     "Seasons" 133
     "Days Of The Week" 133
-    Copywork: Remembering The Days Of The Week" 133
+    "Copywork: Remembering The Days Of The Week" 133
 "Lesson 52" 136
     "Four Kinds Of Verbs" 136
     "Dictation Exercise: “Dinosaurs”" 136
@@ -205,7 +205,7 @@
     "Dictation Exercise: “Bed In Summer”" 159
 "Lesson 62" 162
     "Prepositions" 162
-    Dictation Exercise: “Beneath The Pyramids”" 162
+    "Dictation Exercise: “Beneath The Pyramids”" 162
 "Lesson 63" 164
     "Prepositions" 164
     "Dictation Exercise: “Beneath The Castle Wall”" 164
@@ -270,7 +270,7 @@
     "Nouns" 215
     "Pronouns" 215
     "Dictation Exercise: “The Mother Cat”" 215
-    Poem Review: “The Little Bird” (Lesson 39)" 215
+    "Poem Review: “The Little Bird” (Lesson 39)" 215
 "Lesson 83" 218
     "Contractions" 218
     "Copywork: Contractions" 218
@@ -286,7 +286,7 @@
     "Cumulative Review" 230
 "Lesson 89" 232
     "Prepositions" 232
-    Poem Review: “All Things Bright And Beautiful” (Lesson 85)" 232
+    "Poem Review: “All Things Bright And Beautiful” (Lesson 85)" 232
 "Lesson 90" 234
     "Synonyms" 234
     "Antonyms" 234
