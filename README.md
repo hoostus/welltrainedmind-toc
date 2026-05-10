@@ -18,6 +18,7 @@ You can add them yourself with the tools from [pdf.tocgen](https://krasjet.com/v
     - [Instructor Book](ordinary-parents-guide-to-teaching-reading-revised-instructors.toc)
 - First Language Lessons
     - [Level 1](first-language-lessons-1.toc)
+    - [Level 2](first-language-lessons-2.toc)
 - Writing With Ease
     - [Level 1](writing-with-ease-1.toc)
 - Exploring the World Through Story (from Stonesoup Press, not Well Trained Mind)

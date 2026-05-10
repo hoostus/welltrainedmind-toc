@@ -1,0 +1,315 @@
+"Lesson 1" 18
+    "Nouns" 18
+"Lesson 2" 20
+    "Poem Memorization: “The Goops”" 20
+    "Copywork: “The Goops”" 20
+"Lesson 3" 22
+    "Pronouns" 22
+    "Copywork: “Emily Sang”" 22
+    "Poem Review: “The Goops” (Lesson 2)" 22
+"Lesson 4" 24
+    "Verbs (Action Verbs)" 24
+    "Capitalizing “I” 24
+    "Copywork: “The Baby And I”" 24
+    "Poem Review: “The Goops” (Lesson 2)" 24
+"Lesson 5" 26
+    "Introducing State Of Being Verbs" 26
+    "Copywork: State Of Being Verbs" 26
+    "Poem Review: “The Goops” (Lesson 2)" 26
+"Lesson 6" 28
+    "State Of Being Verbs" 28
+"Lesson 7" 30
+    "Introducing Linking Verbs" 30
+    "Poem Review: “The Goops” (Lesson 2)" 30
+"Lesson 8" 33
+    "Linking Verbs" 33
+"Lesson 9" 34
+    "Story Narration: “The Camel’S Nose”" 34
+"Lesson 10" 37
+    "Linking Verbs" 37
+"Lesson 11" 39
+    "Beginning Poem Booklet" 39
+    "Copywork: “The Year”" 39
+    "Poem Review: “The Goops” (Lesson 2)" 39
+"Lesson 12" 41
+    "Four Types Of Sentences" 41
+    "Seasons Copywork: “January”" 41
+"Lesson 13" 43
+    "Commas (Dates And Addresses)" 43
+    "Copywork: “February”" 43
+"Lesson 14" 45
+    "Commas In A Series" 45
+    "Copywork: “Snuggles, Wiggles, Grins, And Giggles”" 45
+    "Poem Review: “The Goops” (Lesson 2)" 45
+"Lesson 15" 47
+    "Introducing Helping Verbs" 47
+    "Copywork: “March”" 47
+"Lesson 16" 51
+    "Noun Review" 51
+    "Verb Review" 51
+    "Copywork: “April”" 51
+"Lesson 17" 54
+    "Capitalization (Proper Names, Initials, Titles Of Respect, Addresses, Poems)" 54
+"Lesson 18" 57
+    "Introducing Picture Narration: “Dick And Lawless In Holyrood Forest” By N. C. Wyeth" 57
+"Lesson 19" 59
+    "Contractions" 59
+    "Copywork: Contractions" 59
+"Lesson 20" 61
+    "Contractions" 61
+    "Copywork: Contractions" 61
+"Lesson 21" 63
+    "Contractions Using “Not”" 63
+    "Copywork: “May”" 63
+"Lesson 22" 66
+    "Introducing Dictation: “March”" 66
+"Lesson 23" 68
+    "Introducing Adjectives" 68
+    "Copywork: “June”" 68
+"Lesson 24" 70
+    "Adjectives" 70
+    "Copywork: “July”" 70
+"Lesson 25" 72
+    "Nouns" 72
+    "Pronouns" 72
+    "Verbs" 72
+    "Adjectives" 72
+    "Copywork: “August”" 72
+"Lesson 26" 75
+    "Helping Verbs" 75
+    "Dictation Exercise: “God Has Made Them So”" 75
+    "Copywork: “September”" 75
+"Lesson 27" 78
+    "Story Narration: “The Quarrel”" 78
+"Lesson 28" 80
+    "Contractions" 80
+    "Copywork: “October”" 80
+    "Poem Review: “The Goops” (Lesson 2)" 80
+"Lesson 29" 82
+    "Four Kinds Of Verbs Review" 82
+    "Copywork: “November”" 82
+"Lesson 30" 84
+    "Adjectives" 84
+    "Copywork: “December”" 84
+"Lesson 31" 85
+    "Poem Memorization: “The Year”" 85
+"Lesson 32" 87
+    "Introducing Interjections" 87
+    "Four Types Of Sentences" 87
+    "Copywork: “Ouch!”" 87
+    "Poem Review: “The Year” (Lesson 31)" 87
+"Lesson 33" 90
+    "Adjectives" 90
+    "Commas In A Series" 90
+    "Dictation Exercise: “The Brown Bird”" 90
+    "Poem Review: “The Year” (Lesson 31)" 90
+"Lesson 34" 92
+    "Parts Of Speech" 92
+    "Introducing Conjunctions" 92
+    "Dictation Exercise: “I Was Tired”" 92
+    "Poem Review: “The Year” (Lesson 31)" 92
+"Lesson 35" 95
+    "Interjections" 92
+    "Conjunctions" 92
+    "Dictation Exercise: “The Zoo”" 92
+    "Poem Review: “The Goops” (Lesson 2)" 95
+"Lesson 36" 98
+    "Introducing Letter-Writing: Writing A Thank-You Note" 98
+    "Poem Review: “The Year” (Lesson 31)" 98
+"Lesson 37" 100
+    "Addressing An Envelope" 100
+"Lesson 38" 101
+    "Introducing Direct Quotations" 101
+    "Quotation Marks" 101
+    "Copywork: “The Little Bird”" 101
+"Lesson 39" 103
+    "Poem Memorization: “The Little Bird”" 103
+"Lesson 40" 104
+    "Story Narration: “The Little Red Hen”" 104
+    "Copywork: “The Little Red Hen”" 104
+    "Poem Review: “The Little Bird” (Lesson 39)" 104
+"Lesson 41" 108
+    "Introducing Indirect Quotations" 108
+    "Copywork: “Not I”" 108
+    "Poem Review: “The Little Bird” (Lesson 39)" 108
+"Lesson 42" 110
+    "Titles Of Respect" 110
+    "Adjectives" 110
+    "Quotation Marks 110"
+    "Dictation Exercise: “Who Will Help Me?”" 110
+"Lesson 43" 113
+    "Four Types Of Sentences" 113
+    "Dictation Exercise: “The Dump Truck”" 113
+    "Poem Review: “The Little Bird” (Lesson 39)" 113
+"Lesson 44" 118
+    "Story Narration: “The Three Billy Goats Gruff”" 118
+    "Poem Review: “The Year” (Lesson 31)" 118
+"Lesson 45" 121
+    "Quotations Four Types Of Sentences" 121
+    "Parts Of Speech" 121
+    "Conjunctions" 121
+    "Dictation Exercise: “I’M Coming To Eat You Up!”" 121
+"Lesson 46" 123
+    "Picture Narration: “At This The Whole Pack Rose Up Into The Air...” By Arthur Rackham" 123
+"Lesson 47" 125
+    "Introducing Adverbs" 125
+    "Dictation Exercise: “I Ate My Supper”
+    "Poem Review: “The Year” (Lesson 31)" 125
+"Lesson 48" 127
+    "Adverbs" 127
+    "Dictation Exercise: “Whole Duty Of Children”" 127
+    "Poem Review: “The Little Bird” (Lesson 39)" 127
+"Lesson 49" 129
+    "Addresses" 129
+    "Copywork: Addressing Postcards" 129
+"Lesson 50" 131
+    "Writing Postcards" 131
+    "Nouns" 131
+    "Adjectives" 131
+    "Copywork: Writing Postcards Poem Review: “The Goops” (Lesson 2)" 131
+"Lesson 51" 133
+    "Dates" 133
+    "Months Of The Year" 133
+    "Seasons" 133
+    "Days Of The Week" 133
+    Copywork: Remembering The Days Of The Week" 133
+"Lesson 52" 136
+    "Four Kinds Of Verbs" 136
+    "Dictation Exercise: “Dinosaurs”" 136
+"Lesson 53" 139
+    "Adverbs" 139
+    "Adjectives" 139
+    "Poem Review: “The Year” (Lesson 31)" 139
+"Lesson 54" 141
+    "Story Narration: “The Storm”" 141
+"Lesson 55" 143
+    "Adjectives" 143
+    "Adverbs" 143
+"Lesson 56" 146
+    "Introducing Articles" 146
+    "Dictation Exercise: “What We Did”" 146
+"Lesson 57" 149
+    "Articles" 149
+    "Capitalization Review" 149
+"Lesson 58" 152
+    "Introducing Prepositions" 152
+    "Dictation Exercise: “Over My Head”" 152
+    "Poem Review: “The Little Bird” (Lesson 39)" 152
+"Lesson 59" 155
+    "Prepositions" 155
+    "Poem Review: “The Year” (Lesson 31)" 155
+"Lesson 60" 157
+    "Picture Narration: “The Great Wave Off Kanagawa” By Katsushika Hokusai" 157
+"Lesson 61" 159
+    "Prepositions" 159
+    "Dictation Exercise: “Bed In Summer”" 159
+"Lesson 62" 162
+    "Prepositions" 162
+    Dictation Exercise: “Beneath The Pyramids”" 162
+"Lesson 63" 164
+    "Prepositions" 164
+    "Dictation Exercise: “Beneath The Castle Wall”" 164
+    "Poem Review: “The Goops” (Lesson 2)" 164
+"Lesson 64" 167
+    "Articles" 167
+    "Commas In A Series" 167
+    "Conjunctions" 167
+    "Prepositions" 167
+    "Dictation Exercise: “During My Lesson”" 167
+"Lesson 65" 170
+    "Prepositions" 170
+    "Adverbs" 170
+"Lesson 66" 172
+    "Prepositions" 172
+    "Verbs" 172
+"Lesson 67" 175
+    "Prepositions" 175
+    "Dictation Exercise: “King Of The Stuffed Animals”" 175
+    "Poem Review: “The Little Bird” (Lesson 39)" 175
+"Lesson 68" 177
+    "Prepositions" 177
+    "Dictation Exercise: “Through The Rain”" 177
+"Lesson 69" 180
+    "Cumulative Poem Review" 180
+"Lesson 70" 181
+    "Letter Writing: Writing A Friendly Letter" 181
+    "Prepositions" 181
+    "Copywork: Writing A Letter" 181
+"Lesson 71" 183
+    "Addressing An Envelope" 183
+"Lesson 72" 185
+    "Prepositions" 185
+"Lesson 73" 189
+    "Story Narration: “The Three Bears”" 189
+"Lesson 74" 193
+    "Introducing Synonyms" 193
+    "Dictation Exercise: “Roller Coasters”" 193
+"Lesson 75" 196
+    "Introducing Antonyms" 196
+    "Dictation Exercise: “Brush Your Teeth”" 196
+"Lesson 76" 199
+    "Picture Narration: “Snowy Owls,” By John James Audubon" 199
+"Lesson 77" 202
+    "Four Types Of Sentences" 202
+    "Poem Review: “The Year” (Lesson 31)" 202
+"Lesson 78" 203
+    "Verbs" 203
+    "Dictation Exercise: “The Platypus”" 203
+"Lesson 79" 206
+    "Adverbs" 206
+    "Adjectives" 206
+"Lesson 80" 209
+    "Interjections" 209
+    "Prepositions" 209
+    "Dictation Exercise: “Ow! Yuck! Oh!”" 209
+    "Poem Review: “The Goops” (Lesson 2)" 209
+"Lesson 81" 212
+    "Direct And Indirect Quotations" 212
+    "Dictation Exercise: “Who’S That Trip-Trapping?”" 212
+"Lesson 82" 215
+    "Nouns" 215
+    "Pronouns" 215
+    "Dictation Exercise: “The Mother Cat”" 215
+    Poem Review: “The Little Bird” (Lesson 39)" 215
+"Lesson 83" 218
+    "Contractions" 218
+    "Copywork: Contractions" 218
+"Lesson 84" 221
+    "Picture Narration: “Snap The Whip,” By Winslow Homer" 221
+"Lesson 85" 224
+    "Poem Memorization: “All Things Bright And Beautiful”" 224
+"Lesson 86" 225
+    "Cumulative Review" 225
+"Lesson 87" 228
+    "Cumulative Review" 228
+"Lesson 88" 230
+    "Cumulative Review" 230
+"Lesson 89" 232
+    "Prepositions" 232
+    Poem Review: “All Things Bright And Beautiful” (Lesson 85)" 232
+"Lesson 90" 234
+    "Synonyms" 234
+    "Antonyms" 234
+    "Dictation Exercise: “The Troll” Poem Review: “All Things Bright And Beautiful” (Lesson 85)" 234
+"Lesson 91" 237
+    "Parts Of Speech Review" 237
+    "Poem Review: “All Things Bright And Beautiful” (Lesson 85)" 237
+"Lesson 92" 239
+    "Picture Narration: “One Of The Family” By Frederick George Cotman" 239
+"Lesson 93" 241
+    "Review Of Memorized Lists" 241
+"Lesson 94" 242
+    "Homophones" 242
+    "Poem Review: “All Things Bright And Beautiful” (Lesson 85)" 242
+"Lesson 95" 244
+    "Cumulative Poem Review" 244
+"Lesson 96" 245
+    "Dictation Exercise: Review Session 1" 245
+"Lesson 97" 246
+    "Dictation Exercise: Review Session 2" 246
+"Lesson 98" 247
+    "Dictation Exercise: Review Session 3" 247
+"Lesson 99" 248
+    "Story Narration: “The Donkey And The Salt”" 248
+"Lesson 100" 250
+    "Parts Of Speech Hunt" 250
