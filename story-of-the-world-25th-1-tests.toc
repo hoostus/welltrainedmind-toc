@@ -1,0 +1,42 @@
+"Chapter 1 Test: The Earliest People" 8
+"Chapter 2 Test: Egyptians Lived on the Nile River" 10
+"Chapter 3 Test: The First Writing" 12
+"Chapter 4 Test: The Old Kingdom of Egypt" 14
+"Chapter 5 Test: The First Sumerian Dictator" 16
+"Chapter 6 Test: The Jewish People" 18
+"Chapter 7 Test: Hammurabi and the Babylonians" 20
+"Chapter 8 Test: The Assyrians" 22
+"Chapter 9 Test: The First Cities of India" 24
+"Chapter 10 Test: The Far East: Ancient China" 26
+"Chapter 11 Test: Ancient Africa" 28
+"Chapter 12 Test: Life in Early Crete" 30
+"Chapter 13 Test: The Middle Kingdom of Egypt" 32
+"Chapter 14 Test: The New Kingdom of Egypt" 34
+"Chapter 15 Test: The Israelites Leave Egypt" 36
+"Chapter 16 Test: The Early Greeks" 38
+"Chapter 17 Test: The Phoenicians" 40
+"Chapter 18 Test: The Return of Assyria" 42
+"Chapter 19 Test: Greece Gets Civilized Again" 44
+"Chapter 20 Test: Sparta and Athens" 46
+"Chapter 21 Test: The Greek Gods" 48
+"Chapter 22 Test: The Rise of Rome" 50
+"Chapter 23 Test: Babylon Takes Over Again!" 52
+"Chapter 24 Test: The Medes and the Persians" 54
+"Chapter 25 Test: The Aryans of India" 56
+"Chapter 26 Test: Writing, Fighting, and Thinking in China" 58
+"Chapter 27 Test: The Wars of the Greeks" 60
+"Chapter 28 Test: Alexander the Great" 62
+"Chapter 29 Test: The Mauryan Empire of India" 64
+"Chapter 30 Test: The People of the Americas" 66
+"Chapter 31 Test: The Roman Republic" 68
+"Chapter 32 Test: Rome’s War with Carthage" 70
+"Chapter 33 Test: The First Dynasties of China" 72
+"Chapter 34 Test: The Rise of Julius Caesar" 74
+"Chapter 35 Test: Caesar, Ruler of Rome" 78
+"Chapter 36 Test: Israel Under Roman Rule" 80
+"Chapter 37 Test: Rome and the Christians" 82
+"Chapter 38 Test: Rome Begins to Weaken" 84
+"Chapter 39 Test: Troubles in China" 86
+"Chapter 40 Test: Lands East of China" 88
+"Chapter 41 Test: The Attacking Barbarians" 90
+"Chapter 42 Test: The End of Rome" 92

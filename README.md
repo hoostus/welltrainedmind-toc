@@ -8,8 +8,10 @@ You can add them yourself with the tools from [pdf.tocgen](https://krasjet.com/v
 # Which ones are provided so far.
 
 - Story of the World (25th edition).
-    - [Volume 1](story-of-the-world-25th-1.toc)
-    - [Instructor Guide 1](story-of-the-world-25th-1-instructor.toc)
+    - Volume 1
+        - [Main book](story-of-the-world-25th-1.toc)
+        - [Instructor Guide](story-of-the-world-25th-1-instructor.toc)
+        - [Tests and Answer Key](story-of-the-world-25th-1-tests.toc)
 - Ordinary Parent's Guide to Teaching Spelling (Revised edition).
     - [Student Book](ordinary-parents-guide-to-teaching-reading-revised-student.toc)
     - [Instructor Book](ordinary-parents-guide-to-teaching-reading-revised-instructors.toc)
