@@ -101,7 +101,7 @@ Again, you can edit this to taste.
 Once you're happy with the table of contents, apply it to the PDF:
 
 ```
-pdftoio opg.pdf < toc
+pdftocio opg.pdf < toc
 ```
 
 This will not alter the original file but will create a new PDF with a table of contents applied.
