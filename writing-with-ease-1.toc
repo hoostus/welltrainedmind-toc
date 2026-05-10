@@ -1,0 +1,612 @@
+"Instructor Section" 2
+    "Week 1" 10
+        "Day 1 : The First Copywork Exercise" 10
+        "Day 2 : The First Narration Exercise" 10
+        "Day 3 : Copywork" 11
+        "Day 4 : Narration Exercise" 12
+        "Day 5 (optional) : Creative Writing" 13
+    "Week 2" 14
+        "Day 1 : Copywork" 14
+        "Day 2 : Narration Exercise" 14
+        "Day 3 : Copywork" 15
+        "Day 4 : Narration Exercise" 16
+        "Day 5 (optional) : Creative Writing" 17
+    "Week 3" 18
+        "Day 1 : Copywork" 18
+        "Day 2 : Narration Exercise" 18
+        "Day 3 : Copywork" 19
+        "Day 4 : Narration Exercise" 20
+        "Day 5 (optional) : Creative Writing" 22
+    "Week 4" 23
+        "Day 1 : Copywork" 23
+        "Day 2 : Narration Exercise" 23
+        "Day 3 : Copywork" 25
+        "Day 4 : Narration Exercise and Copywork" 25
+        "Day 5 (optional) : Creative Writing" 27
+    "Week 5" 28
+        "Day 1 : Copywork" 28
+        "Day 2 : Narration Exercise" 28
+        "Day 3 : Copywork" 30
+        "Day 4 : Narration Exercise and Copywork" 30
+        "Day 5 (optional) : Creative Writing" 32
+    "Week 6" 33
+        "Day 1 : Copywork" 33
+        "Day 2 : Narration Exercise" 33
+        "Day 3 : Copywork" 35
+        "Day 4 : Narration Exercise and Copywork" 35
+        "Day 5 (optional) : Creative Writing" 37
+    "Week 7" 38
+        "Day 1 : Copywork" 38
+        "Day 2 : Narration Exercise" 38
+        "Day 3 : Copywork" 40
+        "Day 4 : Narration Exercise and Copywork" 40
+        "Day 5 (optional) : Creative Writing" 42
+    "Week 8" 43
+        "Day 1 : Copywork" 43
+        "Day 2 : Narration Exercise" 43
+        "Day 3 : Copywork" 44
+        "Day 4 : Narration Exercise and Copywork" 45
+        "Day 5 (optional) : Creative Writing" 46
+    "Week 9" 48
+        "Day 1 : Copywork" 48
+        "Day 2 : Narration Exercise" 48
+        "Day 3 : Copywork" 49
+        "Day 4 : Narration Exercise and Copywork" 50
+        "Day 5 (optional) : Creative Writing" 51
+    "Week 10" 52
+        "Day 1 : Copywork" 52
+        "Day 2 : Narration Exercise" 52
+        "Day 3 : Copywork" 54
+        "Day 4 : Narration Exercise and Copywork" 54
+        "Day 5 (optional) : Creative Writing" 56
+    "Week 11" 57
+        "Day 1 : Copywork" 57
+        "Day 2 : Narration Exercise" 57
+        "Day 3 : Copywork" 58
+        "Day 4 : Narration Exercise and Copywork" 59
+        "Day 5 (optional) : Creative Writing" 60
+    "Week 12" 62
+        "Day 1 : Copywork" 62
+        "Day 2 : Narration Exercise" 62
+        "Day 3 : Copywork" 64
+        "Day 4 : Narration Exercise and Copywork" 64
+        "Day 5 (optional) : Creative Writing" 66
+    "Week 13" 67
+        "Day 1 : Copywork" 67
+        "Day 2 : Narration Exercise" 67
+        "Day 3 : Copywork" 69
+        "Day 4 : Narration Exercise and Copywork" 69
+        "Day 5 (optional) : Creative Writing" 71
+    "Week 14" 72
+        "Day 1 : Copywork" 72
+        "Day 2 : Narration Exercise" 72
+        "Day 3 : Copywork" 74
+        "Day 4 : Narration Exercise and Copywork" 74
+        "Day 5 (optional) : Creative Writing" 76
+    "Week 15" 77
+        "Day 1 : Copywork" 77
+        "Day 2 : Narration Exercise" 77
+        "Day 3 : Copywork" 79
+        "Day 4 : Narration Exercise and Copywork" 79
+        "Day 5 (optional) : Creative Writing" 81
+    "Week 16" 82
+        "Day 1 : Copywork" 82
+        "Day 2 : Narration Exercise" 82
+        "Day 3 : Copywork" 84
+        "Day 4 : Narration Exercise and Copywork" 85
+        "Day 5 (optional) : Creative Writing" 86
+    "Week 17" 87
+        "Day 1 : Copywork" 87
+        "Day 2 : Narration Exercise" 87
+        "Day 3 : Copywork" 89
+        "Day 4 : Narration Exercise and Copywork" 89
+        "Day 5 (optional) : Creative Writing" 91
+    "Week 18" 92
+        "Day 1 : Copywork" 92
+        "Day 2 : Narration Exercise" 92
+        "Day 3 : Copywork" 93
+        "Day 4 : Narration Exercise and Copywork" 94
+        "Day 5 (optional) : Creative Writing" 95
+    "Week 19" 96
+        "Day 1 : Copywork" 96
+        "Day 2 : Narration Exercise" 96
+        "Day 3 : Copywork" 98
+        "Day 4 : Narration Exercise and Copywork" 98
+        "Day 5 (optional) : Creative Writing" 100
+    "Week 20" 102
+        "Day 1 : Copywork" 102
+        "Day 2 : Narration Exercise" 102
+        "Day 3 : Copywork" 104
+        "Day 4 : Narration Exercise and Copywork" 104
+        "Day 5 (optional) : Creative Writing" 106
+    "Week 21" 107
+        "Day 1 : Copywork" 107
+        "Day 2 : Narration Exercise" 107
+        "Day 3 : Copywork" 109
+        "Day 4 : Narration Exercise and Copywork" 109
+        "Day 5 (optional) : Creative Writing" 111
+    "Week 22" 112
+        "Day 1 : Copywork" 112
+        "Day 2 : Narration Exercise" 112
+        "Day 3 : Copywork" 114
+        "Day 4 : Narration Exercise and Copywork" 114
+        "Day 5 (optional) : Creative Writing" 116
+    "Week 23" 117
+        "Day 1 : Copywork" 117
+        "Day 2 : Narration Exercise" 117
+        "Day 3 : Copywork" 119
+        "Day 4 : Narration Exercise and Copywork" 119
+        "Day 5 (optional) : Creative Writing" 121
+    "Week 24" 122
+        "Day 1 : Copywork" 122
+        "Day 2 : Narration Exercise" 122
+        "Day 3 : Copywork" 124
+        "Day 4 : Narration Exercise and Copywork" 125
+        "Day 5 (optional) : Creative Writing" 127
+    "Week 25" 128
+        "Day 1 : Copywork" 128
+        "Day 2 : Narration Exercise" 128
+        "Day 3 : Copywork" 130
+        "Day 4 : Narration Exercise and Copywork" 130
+        "Day 5 (optional) : Creative Writing" 132
+    "Week 26" 133
+        "Day 1 : Copywork" 133
+        "Day 2 : Narration Exercise" 133
+        "Day 3 : Copywork" 135
+        "Day 4 : Narration Exercise and Copywork" 135
+        "Day 5 (optional) : Creative Writing" 137
+    "Week 27" 138
+        "Day 1 : Copywork" 138
+        "Day 2 : Narration Exercise" 138
+        "Day 3 : Copywork" 140
+        "Day 4 : Narration Exercise and Copywork" 141
+        "Day 5 (optional) : Creative Writing" 143
+    "Week 28" 144
+        "Day 1 : Copywork" 144
+        "Day 2 : Narration Exercise" 144
+        "Day 3 : Copywork" 145
+        "Day 4 : Narration Exercise and Copywork" 146
+        "Day 5 (optional) : Creative Writing" 147
+    "Week 29" 148
+        "Day 1 : Copywork" 148
+        "Day 2 : Narration Exercise" 148
+        "Day 3 : Copywork" 150
+        "Day 4 : Narration Exercise and Copywork" 150
+        "Day 5 (optional) : Creative Writing" 152
+    "Week 30" 154
+        "Day 1 : Copywork" 154
+        "Day 2 : Narration Exercise" 154
+        "Day 3 : Copywork" 156
+        "Day 4 : Narration Exercise and Copywork" 156
+        "Day 5 (optional) : Creative Writing" 158
+    "Week 31" 160
+        "Day 1 : Copywork" 160
+        "Day 2 : Narration Exercise" 160
+        "Day 3 : Copywork" 162
+        "Day 4 : Narration Exercise and Copywork" 162
+        "Day 5 (optional) : Creative Writing" 164
+    "Week 32" 165
+        "Day 1 : Copywork" 165
+        "Day 2 : Narration Exercise" 165
+        "Day 3 : Copywork" 167
+        "Day 4 : Narration Exercise and Copywork" 168
+        "Day 5 (optional) : Creative Writing" 169
+    "Week 33" 171
+        "Day 1 : Copywork" 171
+        "Day 2 : Narration Exercise" 171
+        "Day 3 : Copywork" 173
+        "Day 4 : Narration Exercise and Copywork" 173
+        "Day 5 (optional) : Creative Writing" 175
+    "Week 34" 176
+        "Day 1 : Copywork" 176
+        "Day 2 : Narration Exercise" 176
+        "Day 3 : Copywork" 178
+        "Day 4 : Narration Exercise and Copywork" 179
+        "Day 5 (optional) : Creative Writing" 180
+    "Week 35" 181
+        "Day 1 : Copywork" 181
+        "Day 2 : Narration Exercise" 181
+        "Day 3 : Copywork" 183
+        "Day 4 : Narration Exercise and Copywork" 183
+        "Day 5 (optional) : Creative Writing" 185
+    "Week 36: Evaluation" 186
+        "Copywork Evaluation" 186
+        "Narration Evaluation" 186
+        "Copywork Evaluation" 188
+        "Narration Evaluation" 188
+"Student Pages" 192
+    "Week 1" 194
+        "Day 1" 194
+        "Day 2" 195
+        "Day 3" 196
+        "Day 4" 197
+        "Day 5" 198
+    "Week 2" 200
+        "Day 1" 200
+        "Day 2" 201
+        "Day 3" 202
+        "Day 4" 203
+        "Day 5" 204
+    "Week 3" 206
+        "Day 1" 206
+        "Day 2" 207
+        "Day 3" 208
+        "Day 4" 209
+        "Day 5" 210
+    "Week 4" 211
+        "Day 1" 211
+        "Day 2" 212
+        "Day 3" 213
+        "Day 4" 214
+        "Day 5" 215
+    "Week 5" 217
+        "Day 1" 217
+        "Day 2" 218
+        "Day 3" 219
+        "Day 4" 220
+        "Day 5" 221
+    "Week 6" 223
+        "Day 1" 223
+        "Day 2" 224
+        "Day 3" 225
+        "Day 4" 226
+        "Day 5" 227
+    "Week 7" 228
+        "Day 1" 228
+        "Day 2" 229
+        "Day 3" 230
+        "Day 4" 231
+        "Day 5" 232
+    "Week 8" 234
+        "Day 1" 234
+        "Day 2" 235
+        "Day 3" 236
+        "Day 4" 237
+        "Day 5" 238
+    "Week 9" 240
+        "Day 1" 240
+        "Day 2" 241
+        "Day 3" 242
+        "Day 4" 243
+        "Day 5" 244
+    "Week 10" 245
+        "Day 1" 245
+        "Day 2" 246
+        "Day 3" 247
+        "Day 4" 248
+        "Day 5" 249
+    "Week 11" 251
+        "Day 1" 251
+        "Day 2" 252
+        "Day 3" 253
+        "Day 4" 254
+        "Day 5" 255
+    "Week 12" 257
+        "Day 1" 257
+        "Day 2" 258
+        "Day 3" 259
+        "Day 4" 260
+        "Day 5" 261
+    "Week 13" 262
+        "Day 1" 262
+        "Day 2" 263
+        "Day 3" 264
+        "Day 4" 265
+        "Day 5" 266
+    "Week 14" 268
+        "Day 1" 268
+        "Day 2" 269
+        "Day 3" 270
+        "Day 4" 271
+        "Day 5" 272
+    "Week 15" 274
+        "Day 1" 274
+        "Day 2" 275
+        "Day 3" 276
+        "Day 4" 277
+        "Day 5" 278
+    "Week 16" 280
+        "Day 1" 280
+        "Day 2" 281
+        "Day 3" 282
+        "Day 4" 283
+        "Day 5" 284
+    "Week 17" 285
+        "Day 1" 285
+        "Day 2" 286
+        "Day 3" 287
+        "Day 4" 288
+        "Day 5" 289
+    "Week 18" 291
+        "Day 1" 291
+        "Day 2" 292
+        "Day 3" 293
+        "Day 4" 294
+        "Day 5" 295
+    "Week 19" 297
+        "Day 1" 297
+        "Day 2" 298
+        "Day 3" 299
+        "Day 4" 300
+        "Day 5" 301
+    "Week 20" 302
+        "Day 1" 302
+        "Day 2" 303
+        "Day 3" 304
+        "Day 4" 305
+        "Day 5" 306
+    "Week 21" 308
+        "Day 1" 308
+        "Day 2" 309
+        "Day 3" 310
+        "Day 4" 311
+        "Day 5" 312
+    "Week 22" 314
+        "Day 1" 314
+        "Day 2" 315
+        "Day 3" 316
+        "Day 4" 317
+        "Day 5" 318
+    "Week 23" 320
+        "Day 1" 320
+        "Day 2" 321
+        "Day 3" 322
+        "Day 4" 323
+        "Day 5" 324
+    "Week 24" 326
+        "Day 1" 326
+        "Day 2" 327
+        "Day 3" 328
+        "Day 4" 329
+        "Day 5" 330
+    "Week 25" 332
+        "Day 1" 332
+        "Day 2" 333
+        "Day 3" 334
+        "Day 4" 335
+        "Day 5" 336
+    "Week 26" 338
+        "Day 1" 338
+        "Day 2" 339
+        "Day 3" 340
+        "Day 4" 341
+        "Day 5" 342
+    "Week 27" 344
+        "Day 1" 344
+        "Day 2" 345
+        "Day 3" 346
+        "Day 4" 347
+        "Day 5" 348
+    "Week 28" 350
+        "Day 1" 350
+        "Day 2" 351
+        "Day 3" 352
+        "Day 4" 353
+        "Day 5" 354
+    "Week 29" 359
+        "Day 1" 356
+        "Day 2" 357
+        "Day 3" 358
+        "Day 4" 359
+        "Day 5" 360
+    "Week 30" 362
+        "Day 1" 362
+        "Day 2" 363
+        "Day 3" 364
+        "Day 4" 365
+        "Day 5" 366
+    "Week 31" 368
+        "Day 1" 368
+        "Day 2" 369
+        "Day 3" 370
+        "Day 4" 371
+        "Day 5" 372
+    "Week 32" 374
+        "Day 1" 374
+        "Day 2" 375
+        "Day 3" 376
+        "Day 4" 377
+        "Day 5" 378
+    "Week 33" 379
+        "Day 1" 379
+        "Day 2" 380
+        "Day 3" 381
+        "Day 4" 382
+        "Day 5" 383
+    "Week 34" 385
+        "Day 1" 385
+        "Day 2" 386
+        "Day 3" 387
+        "Day 4" 388
+        "Day 5" 389
+    "Week 35" 391
+        "Day 1" 391
+        "Day 2" 392
+        "Day 3" 393
+        "Day 4" 394
+        "Day 5" 395
+    "Week 36: Evaluation" 397
+        "Copywork Evaluation" 397
+        "Narration Evaluation" 398
+        "Copywork Evaluation" 399
+        "Narration Evaluation" 400
+"Student Pages (duplicate)" 401
+    "Week 1 Day One" 403
+    "Week 1 Day Two" 404
+    "Week 1 Day Three" 405
+    "Week 1 Day Four" 406
+    "Week 1 Day Five" 407
+    "Week 2 Day One" 409
+    "Week 2 Day Two" 410
+    "Week 2 Day Three" 411
+    "Week 2 Day Four" 412
+    "Week 2 Day Five" 413
+    "Week 3 Day One" 415
+    "Week 3 Day Two" 416
+    "Week 3 Day Three" 417
+    "Week 3 Day Four" 418
+    "Week 3 Day Five" 419
+    "Week 4 Day One" 420
+    "Week 4 Day Two" 421
+    "Week 4 Day Three" 422
+    "Week 4 Day Four" 423
+    "Week 4 Day Five" 424
+    "Week 5 Day One" 426
+    "Week 5 Day Two" 427
+    "Week 5 Day Three" 428
+    "Week 5 Day Four" 429
+    "Week 5 Day Five" 430
+    "Week 6 Day One" 432
+    "Week 6 Day Two" 433
+    "Week 6 Day Three" 434
+    "Week 6 Day Four" 435
+    "Week 6 Day Five" 436
+    "Week 7 Day One" 437
+    "Week 7 Day Two" 438
+    "Week 7 Day Three" 439
+    "Week 7 Day Four" 440
+    "Week 7 Day Five" 441
+    "Week 8 Day One" 443
+    "Week 8 Day Two" 444
+    "Week 8 Day Three" 445
+    "Week 8 Day Four" 446
+    "Week 8 Day Five" 447
+    "Week 9 Day One" 449
+    "Week 9 Day Two" 450
+    "Week 9 Day Three" 451
+    "Week 9 Day Four" 452
+    "Week 9 Day Five" 453
+    "Week 10 Day One" 454
+    "Week 10 Day Two" 455
+    "Week 10 Day Three" 456
+    "Week 10 Day Four" 457
+    "Week 10 Day Five" 458
+    "Week 11 Day One" 460
+    "Week 11 Day Two" 461
+    "Week 11 Day Three" 462
+    "Week 11 Day Four" 463
+    "Week 11 Day Five" 464
+    "Week 12 Day One" 466
+    "Week 12 Day Two" 467
+    "Week 12 Day Three" 468
+    "Week 12 Day Four" 469
+    "Week 12 Day Five" 470
+    "Week 13 Day One" 471
+    "Week 13 Day Two" 472
+    "Week 13 Day Three" 473
+    "Week 13 Day Four" 474
+    "Week 13 Day Five" 475
+    "Week 14 Day One" 477
+    "Week 14 Day Two" 478
+    "Week 14 Day Three" 479
+    "Week 14 Day Four" 480
+    "Week 14 Day Five" 481
+    "Week 15 Day One" 483
+    "Week 15 Day Two" 484
+    "Week 15 Day Three" 485
+    "Week 15 Day Four" 486
+    "Week 15 Day Five" 487
+    "Week 16 Day One" 489
+    "Week 16 Day Two" 490
+    "Week 16 Day Three" 491
+    "Week 16 Day Four" 492
+    "Week 16 Day Five" 493
+    "Week 17 Day One" 494
+    "Week 17 Day Two" 495
+    "Week 17 Day Three" 496
+    "Week 17 Day Four" 497
+    "Week 17 Day Five" 498
+    "Week 18 Day One" 500
+    "Week 18 Day Two" 501
+    "Week 18 Day Three" 502
+    "Week 18 Day Four" 503
+    "Week 18 Day Five" 504
+    "Week 19 Day One" 506
+    "Week 19 Day Two" 507
+    "Week 19 Day Three" 508
+    "Week 19 Day Four" 509
+    "Week 19 Day Five" 510
+    "Week 20 Day One" 511
+    "Week 20 Day Two" 512
+    "Week 20 Day Three" 513
+    "Week 20 Day Four" 514
+    "Week 20 Day Five" 515
+    "Week 21 Day One" 517
+    "Week 21 Day Two" 518
+    "Week 21 Day Three" 519
+    "Week 21 Day Four" 520
+    "Week 21 Day Five" 521
+    "Week 22 Day One" 523
+    "Week 22 Day Two" 524
+    "Week 22 Day Three" 525
+    "Week 22 Day Four" 526
+    "Week 22 Day Five" 527
+    "Week 23 Day One" 529
+    "Week 23 Day Two" 530
+    "Week 23 Day Three" 531
+    "Week 23 Day Four" 532
+    "Week 23 Day Five" 533
+    "Week 24 Day One" 535
+    "Week 24 Day Two" 536
+    "Week 24 Day Three" 537
+    "Week 24 Day Four" 538
+    "Week 24 Day Five" 539
+    "Week 25 Day One" 541
+    "Week 25 Day Two" 542
+    "Week 25 Day Three" 543
+    "Week 25 Day Four" 544
+    "Week 25 Day Five" 545
+    "Week 26 Day One" 547
+    "Week 26 Day Two" 548
+    "Week 26 Day Three" 549
+    "Week 26 Day Four" 550
+    "Week 26 Day Five" 551
+    "Week 27 Day One" 553
+    "Week 27 Day Two" 554
+    "Week 27 Day Three" 555
+    "Week 27 Day Four" 556
+    "Week 27 Day Five" 557
+    "Week 28 Day One" 559
+    "Week 28 Day Two" 560
+    "Week 28 Day Three" 561
+    "Week 28 Day Four" 562
+    "Week 28 Day Five" 563
+    "Week 29 Day One" 565
+    "Week 29 Day Two" 566
+    "Week 29 Day Three" 567
+    "Week 29 Day Four" 568
+    "Week 29 Day Five" 569
+    "Week 30 Day One" 571
+    "Week 30 Day Two" 572
+    "Week 30 Day Three" 573
+    "Week 30 Day Four" 574
+    "Week 30 Day Five" 575
+    "Week 31 Day One" 577
+    "Week 31 Day Two" 578
+    "Week 31 Day Three" 579
+    "Week 31 Day Four" 580
+    "Week 31 Day Five" 581
+    "Week 32 Day One" 583
+    "Week 32 Day Two" 584
+    "Week 32 Day Three" 585
+    "Week 32 Day Four" 586
+    "Week 32 Day Five" 587
+    "Week 33 Day One" 588
+    "Week 33 Day Two" 589
+    "Week 33 Day Three" 590
+    "Week 33 Day Four" 591
+    "Week 33 Day Five" 592
+    "Week 34 Day One" 594
+    "Week 34 Day Two" 595
+    "Week 34 Day Three" 596
+    "Week 34 Day Four" 597
+    "Week 34 Day Five" 598
+    "Week 35 Day One" 600
+    "Week 35 Day Two" 601
+    "Week 35 Day Three" 602
+    "Week 35 Day Four" 603
+    "Week 35 Day Five" 604
+    "Week 36 Page 1" 606
+    "Week 36 Page 2" 607
+    "Week 36 Page 3" 608
+    "Week 36 Page 4" 609
