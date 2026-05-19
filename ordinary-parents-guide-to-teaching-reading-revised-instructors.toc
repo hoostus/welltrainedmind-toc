@@ -41,7 +41,7 @@
     "Lesson 37: Words with the Short-O Vowel Sound" 139
     "Lesson 38: Words with the Short-O Vowel Sound" 141
     "Lesson 39: Words with the Short-U Vowel Sound" 143
-    "Lesson 40: Review of the Short-Vowel Sounds" 146
+    "Lesson 40: Review of the Short-Vowel Sounds of A, E, I, O, and U" 146
 "Section 4 Two-Consonant Blends" 148
     "Lesson 41: Double Consonants" 148
     "Lesson 42: The CK Combination" 151
@@ -54,7 +54,7 @@
     "Lesson 49: Adding the Letter S to Words" 165
     "Lesson 50: The Beginning Blends BL, CL, FL, GL, PL, and SL" 167
     "Lesson 51: The Beginning Blends SM, SP, SC, SK, SN, and ST" 170
-    "Lesson 52: The Beginning Blends BR," 173
+    "Lesson 52: The Beginning Blends BR, CR, DR, FR, GR, PR, and TR" 173
     "Lesson 53: The Beginning Blends SQU, SW, and TW" 176
 "Section 5 Consonant Digraphs" 178
     "Lesson 54: The Digraph NG" 178
@@ -77,7 +77,7 @@
     "Lesson 69: Words with the Long-I Vowel Sound" 212
     "Lesson 70: Words with the Long-I Vowel Sound" 215
     "Lesson 71: Words with the Long-O Vowel Sound" 218
-    "Lesson 72: Review Words with the Long-Vowel Sounds" 220
+    "Lesson 72: Review Words with the Long-Vowel Sounds of A, E, I, and O" 220
     "Lesson 73: Words with the Long-O Vowel Sound" 222
     "Lesson 74: Words with the Long-U Vowel Sound" 223
     "Lesson 75: Long-Vowel Words: CK to KE" 226
@@ -89,34 +89,34 @@
     "Lesson 81: Adding S to the Ends of Words" 240
     "Lesson 82: Review of Long-Vowel Words" 242
     "Lesson 83: Review of Long-Vowel Words" 244
-"Section 8 Common Spellings for" 246
+"Section 8 Common Spellings for the Long-A Sound" 246
     "Lesson 84: The Vowel Pair AI as /ā/" 246
     "Lesson 85: The Vowel Pair AI as /ā/" 250
     "Lesson 86: The Vowel Pair AY as /ā/" 252
     "Lesson 87: The Vowel Pairs EA, EI, and EY as /ā/" 254
     "Lesson 88: Review of the Long-A Vowel Pairs" 256
-"Section 9 Common Spellings for the" 258
+"Section 9 Common Spellings for the Long-E Sound" 258
     "Lesson 89: The Vowel Pair EE as /ē/" 258
     "Lesson 90: The Vowel Pair EA as /ē/" 260
     "Lesson 91: Review the Vowel Pair EA" 262
     "Lesson 92: The Vowel Pair IE as /ē/" 265
     "Lesson 93: Review of the Long-E Vowel Pairs" 267
-"Section 10 Common Spellings for" 270
+"Section 10 Common Spellings for the Long-I Sound" 270
     "Lesson 94: The Vowel Pair IE as /ī/" 270
     "Lesson 95: Y Plus a Silent E as /ī/" 273
     "Lesson 96: I Alone as /ī/" 275
     "Lesson 97: Review of the Long-I Vowel Pairs and Patterns" 278
-"Section 11 Common Spellings for" 282
+"Section 11 Common Spellings for the Long-O Sound" 282
     "Lesson 98: The Vowel Pair OA as /ō/" 282
     "Lesson 99: The Vowel Pair OW as /ō/" 284
     "Lesson 100: The Vowel Pair OE as /ō/" 286
     "Lesson 101: O Alone as /ō/" 288
     "Lesson 102: Review of the Long-O Vowel Pairs and Patterns" 290
-"Section 12 Common Spellings for" 292
+"Section 12 Common Spellings for the Long-U Sound" 292
     "Lesson 103: The Vowel Pair UE as /ū/" 292
     "Lesson 104: The Vowel Pair EW as /ū/" 294
     "Lesson 105: Review of the Long-U Vowel Pairs and Patterns" 296
-"Section 13 Common Spellings for" 298
+"Section 13 Common Spellings for Other Vowel Sounds" 298
     "Lesson 106: The Vowel Pair OO as / ſ /" 298
     "Lesson 107: The Vowel Pair OU as / ſ /" 300
     "Lesson 108: U Plus a Silent E as / ſ /" 301
@@ -126,7 +126,7 @@
     "Lesson 112: Review of Words with the / ſ / Sound" 307
     "Lesson 113: The Vowel Pair OO as /ǻ/" 309
     "Lesson 114: U Alone as /ǻ/" 312
-    "Lesson 115: Review of Words with the" 314
+    "Lesson 115: Review of Words with the Short- and Long-OO Vowel Sound" 314
     "Lesson 116: The Vowel Pair AW as /ô/" 316
     "Lesson 117: The Vowel Pair AU as /ô/" 318
     "Lesson 118: A Alone Before L as /ô/" 320
@@ -145,12 +145,12 @@
     "Lesson 130: Review OU as / ſ / and /ou/" 345
     "Lesson 131: Sight Words: build, built" 347
     "Lesson 132: Y Alone as / ǐ /" 349
-    "Lesson 133: Review of Vowel Pairs and" 351
+    "Lesson 133: Review of Vowel Pairs and Patterns for Short-Vowel Words" 351
 "Section 15 Silent Letters" 354
     "Lesson 134: The Silent Letter Pair GH: IGH" 354
     "Lesson 135: The Silent Letter Pair GH: EIGH" 356
     "Lesson 136: The Silent Letter Pair GH: AIGH and AUGH" 358
-    "Lesson 137: Review the Silent Letter Pair" 360
+    "Lesson 137: Review the Silent Letter Pair GH: IGH, EIGH, AIGH, and AUGH" 360
     "Lesson 138: Review the Vowel Pair OU" 362
     "Lesson 139: The Silent Letter Pair GH: OUGH as / ſ / and /ou/" 364
     "Lesson 140: The Silent Letter Pair GH: OUGH as /ô/ and /ō/" 366
@@ -189,7 +189,7 @@
     "Lesson 172: R-Changed Vowels: EAR as /ûr/" 426
     "Lesson 173: Sight Words: where, there, were" 428
     "Lesson 174: Sight Words: their, here" 431
-    "Lesson 175: R-Changed Vowels: Slightly-" 433
+    "Lesson 175: R-Changed Vowels: Slightly-Changed Vowel Sounds" 433
     "Lesson 176: R-Changed Vowels Review" 436
     "Lesson 177: R-Changed Vowels Review" 437
 "Section 17 Simple Two-Syllable Words" 440
@@ -202,7 +202,7 @@
     "Lesson 184: The ING Ending" 451
     "Lesson 185: Practice with Two-Syllable Words" 453
     "Lesson 186: Practice with Two-Syllable Words" 455
-"Section 18 Other Letter Patterns" 458
+"Section 18 Other Letter Patterns and Silent Letters" 458
     "Lesson 187: OU as Short-U" 458
     "Lesson 188: OR as /är/" 460
     "Lesson 189: CH as /k/" 462
@@ -251,10 +251,10 @@
     "Lesson 226: Review the Letter Patterns from Lessons 221-225" 542
 "Section 25 The Final Section" 544
     "Lesson 227: Homonyms, Homophones, and Homographs" 544
-    "Lesson 228: Exercise Your Reading Muscles" 547
-    "Lesson 229: Exercise Your Reading Muscles" 550
-    "Lesson 230: Exercise Your Reading Muscles" 553
-    "Lesson 231: The Final Lesson: Reading a" 555
+    "Lesson 228: Exercise Your Reading Muscles (Reading Multi-Syllable Words)" 547
+    "Lesson 229: Exercise Your Reading Muscles (Reading Multi-Syllable Words)" 550
+    "Lesson 230: Exercise Your Reading Muscles (Reading Multi-Syllable Words)" 553
+    "Lesson 231: The Final Lesson: Reading a Really Long and Silly Word" 555
 "Part 2 Information for Parents" 556
     "Pre-Reading" 558
     "Managing the Reading Session" 564
