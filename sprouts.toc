@@ -1,0 +1,78 @@
+"SPROUTS: Writing Strategies" 6
+"Scope and Sequence" 8
+"Implementation Guide" 10
+    "How to Use Part 1" 11
+    "How to Use Part 2" 13
+    "Family Style (Optional) " 15
+    "Sentence Study (Optional)" 16
+"Part 1: Writing Instruction" 17
+    "About Sentences" 19
+        "Section A: What is a sentence?" 19
+            "Step 1: Nouns" 19
+            "Step 2: Proper Nouns" 22
+            "Step 3: Pronouns" 25
+            "Step 4: Verbs" 28
+            "Step 5: Sentence Definition" 31
+        "Section B: Sentence Types" 34
+            "Step 1: Declarative Sentences" 34
+            "Step 2: Interrogative Sentences" 35
+            "Step 3: Exclamatory Sentences" 36
+            "Step 4: Imperative Sentences" 37
+        "Section C: Phrases and Clauses" 40
+            "Step 1: Phrases" 40
+            "Step 2: Clauses" 44
+            "Step 3: Phrases, Clauses, and Sentences" 47
+    "Sentence Writing Techniques" 51
+        "Section D: Lists" 51
+            "Step 1: Subject Lists" 51
+            "Step 2: Verb lists" 53
+            "Step 3: Other Lists" 55
+        "Section E: FANBOYS" 58
+            "Step 1: Coordinating Conjunctions" 58
+            "Step 2: Word Meanings " 60
+        "Section F: Prepositional Phrases" 65
+            "Step 1: Prepositions" 65
+        "Section G: Sentence Openers" 70
+            "Step 1: The Basics" 70
+            "Step 2: More Sentence Openers" 71
+        "Section H: Appositives" 76
+            "Step 1: What is an appositive?" 76
+            "Step 2: Writing With Appositives " 77
+        "Section I: Subordinating Conjunctions" 82
+            "Step 1: Subordinating Conjunctions" 82
+        "Section J: Adjectives" 88
+            "Step 1: Descriptive Writing" 88
+            "Step 2: Writing With Adjectives" 90
+        "Section K: Verbs and Adverbs" 94
+            "Step 1: Linking Verbs" 94
+            "Step 2: Verb Phrases" 99
+            "Step 3: Adverbs" 104
+        "Section L: Who/Which/That" 108
+            "Step 1: Who" 108
+            "Step 2: Which/That" 113
+            "Step 3: Adjective Clauses" 117
+    "Paragraphs" 121
+        "Step 1: What is a paragraph?" 121
+        "Step 2: Descriptive Paragraphs" 126
+        "Step 3: Cause and Effect Paragraphs" 127
+        "Step 4: Compare and Contrast Paragraphs" 128
+        "Step 5: Problem and Solution Paragraphs" 129
+        "Step 6: Sequence Paragraphs" 130
+"Part 2: Writing Strategies" 131
+    "Writing Strategies Guide" 132
+    "Examples and Explanations for Part 2" 146
+"Answer Key" 159
+"Appendix A: Word Lists" 175
+    "Person Noun List" 176
+    "Place Noun List" 177
+    "Thing Noun List" 178
+    "Idea Noun List" 179
+    "Proper Noun List" 180
+    "Verb List" 182
+    "Preposition List" 183
+    "Subordinating Conjunction List" 184
+    "Adjective List" 185
+    "Adverb List" 186
+"Appendix B: Sample Schedules " 187
+    "Sample Weekly Schedule to Complete Curriculum Over 3 Years" 188
+    "Sample Schedule to Cover the Entire Curriculum in 1 Year" 193
