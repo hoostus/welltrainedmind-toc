@@ -1,0 +1,226 @@
+"Table of Contents" 6
+"Introduction" 8
+"How to Use This Book" 9
+"Unit 1: Numbers to 10" 18
+    "Week 1 Numbers 1-4" 19
+        "Lesson 1.1 Number 1" 21
+        "Lesson 1.2 Number 2" 23
+        "Lesson 1.3 Number 3" 25
+        "Lesson 1.4 Number 4" 28
+        "Week 1 Answer Key" 30
+    "Week 2 Numbers 0 and 5" 31
+        "Lesson 2.1 Number 5" 33
+        "Lesson 2.2 Number 0" 36
+        "Lesson 2.3 Pennies" 39
+        "Lesson 2.4 Nickels" 42
+        "Week 2 Answer Key" 45
+    "Week 3 Numbers 6-9" 46
+        "Lesson 3.1 Number 6" 48
+        "Lesson 3.2 Number 7" 51
+        "Lesson 3.3 Number 8" 54
+        "Lesson 3.4 Number 9" 57
+        "Week 3 Answer Key" 59
+    "Week 4 Combinations That Make 10" 60
+        "Lesson 4.1 Number 10" 61
+        "Lesson 4.2 Combinations That Make 10" 64
+        "Lesson 4.3 Number Pairs That Make 10" 66
+        "Lesson 4.4 Make 10 Memory Game" 68
+        "Week 4 Answer Key" 70
+    "Unit 1 Checkpoint" 71
+"Unit 2 Shapes" 72
+    "Week 5 Sorting and Classifying" 73
+        "Lesson 5.1 Sorting Writing Utensils" 75
+        "Lesson 5.2 Sorting Spoons" 78
+        "Lesson 5.3 Straight and Curved Lines" 81
+        "Lesson 5.4 Circles" 83
+        "Week 5 Answer Key" 85
+    "Week 6 Shapes" 86
+        "Lesson 6.1 Sides and Angles" 88
+        "Lesson 6.2 Triangles" 90
+        "Lesson 6.3 Rectangles" 92
+        "Lesson 6.4 Squares" 95
+        "Week 6 Answer Key" 98
+    "Week 7 Pattern Blocks" 99
+        "Lesson 7.1 Pattern Blocks" 101
+        "Lesson 7.2 Pattern Block Designs" 103
+        "Lesson 7.3 Pattern Block Puzzles" 105
+        "Lesson 7.4 More Pattern Block Puzzles" 107
+        "Week 7 Answer Key" 109
+    "Week 8 Symmetry" 110
+        "Lesson 8.1 Symmetry" 112
+        "Lesson 8.2 Symmetric Designs" 115
+        "Lesson 8.3 Body Symmetry" 118
+        "Lesson 8.4 Left and Right" 120
+        "Week 8 Answer Key" 122
+    "Unit 2 Checkpoint" 123
+"Unit 3 Directions and Patterns" 124
+    "Week 9 Directions" 125
+        "Lesson 9.1 Follow Directions" 126
+        "Lesson 9.2 Give Directions" 128
+        "Lesson 9.3 Pattern Block Positions" 131
+        "Lesson 9.4 Ordinal Numbers" 134
+        "Week 9 Answer Key" 136
+    "Week 10 Patterns" 137
+        "Lesson 10.1 AB Patterns" 138
+        "Lesson 10.2 ABC Patterns" 140
+        "Lesson 10.3 More Patterns" 142
+        "Lesson 10.4 Missing Elements in Patterns" 144
+        "Week 10 Answer Key" 146
+    "Unit 3 Checkpoint" 147
+"Unit 4 Comparing Numbers to 10" 148
+    "Week 11 Compare without Numbers" 149
+        "Lesson 11.1 Compare Heights" 151
+        "Lesson 11.2 Compare Lengths" 154
+        "Lesson 11.3 Equal Lengths" 157
+        "Lesson 11.4 More, Less, and Equal" 159
+        "Week 11 Answer Key" 161
+    "Week 12 Compare Numbers to 10" 162
+        "Lesson 12.1 More, Fewer, and Equal" 164
+        "Lesson 12.2 Compare Tally Marks" 166
+        "Lesson 12.3 Compare on the Ten-Frame" 168
+        "Lesson 12.4 Compare Written Numerals" 171
+        "Week 12 Answer Key" 174
+    "Week 13 Sequence Numbers to 10" 175
+        "Lesson 13.1 Least and Greatest" 176
+        "Lesson 13.2 Least to Greatest Game" 178
+        "Lesson 13.3 Put Ages in Order" 181
+        "Lesson 13.4 Greatest to Least Game" 183
+        "Week 13 Answer Key" 185
+    "Week 14 1 or 2 More, 1 or 2 Less" 186
+        "Lesson 14.1 1 or 2 More with Objects" 188
+        "Lesson 14.2 1 or 2 More with Tallies and Numbers" 190
+        "Lesson 14.3 1 or 2 Less with Objects" 192
+        "Lesson 14.4 1 or 2 Less with Tallies and Numbers" 194
+        "Week 14 Answer Key" 197
+    "Unit 4 Checkpoint" 198
+"Unit 5 Addition" 200
+    "Week 15 Addition" 201
+        "Lesson 15.1 Introduce Addition" 203
+        "Lesson 15.2 The Plus Sign (+)" 205
+        "Lesson 15.3 The Equals Sign (=)" 207
+        "Lesson 15.4 Equations" 209
+        "Week 15 Answer Key" 212
+    "Week 16 Many Ways to Show Addition" 213
+        "Lesson 16.1 Show One Equation Many Ways" 215
+        "Lesson 16.2 Add Parts of a Group" 218
+        "Lesson 16.3 Use Pictures to Solve Addition Problems" 220
+        "Lesson 16.4 Use Counters to Solve Addition Problems" 222
+        "Week 16 Answer Key" 224
+    "Week 17 Addition Practice" 225
+        "Lesson 17.1 Add on the Ten-Frame" 226
+        "Lesson 17.2 Add 0, 1, and 2" 228
+        "Lesson 17.3 Addition War" 230
+        "Lesson 17.4 Addition War" 232
+        "Week 17 Answer Key" 234
+    "Unit 5 Checkpoint" 228
+"Unit 6 Numbers to 20" 236
+    "18 Count to 20" 237
+        "Lesson 18.1 Count to 20" 239
+        "Lesson 18.2 Count Objects by Moving Them" 241
+        "Lesson 18.3 Count Objects without Moving Them" 243
+        "Lesson 18.4 Count out up to 20 Objects" 246
+        "Week 18 Answer Key" 248
+    "Week 19 Combinations of “10 and Some More”" 249
+        "Lesson 19.1 Combinations of “10 and Some More”" 251
+        "Lesson 19.2 Numbers 11-20 with Fingers" 254
+        "Lesson 19.3 Numbers 11-20 with Tallies" 257
+        "Lesson 19.4 Dimes" 259
+        "Week 19 Answer Key" 262
+    "Week 20 Read and Write Numbers to 20" 263
+        "Lesson 20.1 Introduce Written Numbers 11-20" 265
+        "Lesson 20.2 Use Counters to Model Written Numbers" 269
+        "Lesson 20.3 Write Numbers 11-20" 272
+        "Lesson 20.4 Play Store with Dimes and Pennies" 275
+        "Week 20 Answer Key" 278
+    "Unit 6 Checkpoint" 279
+"Unit 7 Measurement" 280
+    "Week 21 Length" 281
+        "Lesson 21.1 Measure Length" 283
+        "Lesson 21.2 Inches (or Centimeters)" 286
+        "Lesson 21.3 Feet (or Meters)" 289
+        "Lesson 21.4 All About Me" 291
+        "Week 21 Answer Key" 294
+    "Week 22 Weight and Capacity" 295
+        "Lesson 22.1 Compare Weights" 297
+        "Lesson 22.2 Pounds (or Kilograms)" 300
+        "Lesson 22.3 Compare Capacities" 302
+        "Lesson 22.4 Cups (or Liters)" 305
+        "Week 22 Answer Key" 307
+    "Unit 7 Checkpoint" 308
+"Unit 8 Subtraction" 310
+    "Week 23 Take-Away Subtraction" 311
+        "Lesson 23.1 Introduce Subtraction" 313
+        "Lesson 23.2 The Minus Sign (-)" 316
+        "Lesson 23.3 Use Fingers to Show Subtraction" 319
+        "Lesson 23.4 Subtraction Equations" 321
+        "Week 23 Answer Key" 323
+    "Week 24 Take-Apart Subtraction" 324
+        "Lesson 24.1 Two Ways to Understand Subtraction" 326
+        "Lesson 24.2 Take-Apart Subtraction" 329
+        "Lesson 24.3 More Take-Apart Subtraction" 331
+        "Lesson 24.4 Draw Pictures to Solve Subtraction Problems" 334
+        "Week 24 Answer Key" 337
+    "Week 25 Subtraction Practice" 338
+        "Lesson 25.1 Subtract on the Ten-Frame" 340
+        "Lesson 25.2 Subtract 0, 1, and 2" 342
+        "Lesson 25.3 Subtraction War" 344
+        "Lesson 25.4 Subtraction War" 346
+        "Week 24 Answer Key" 348
+    "Unit 8 Checkpoint" 349
+"Unit 9 Numbers to 100" 350
+    "Week 26 Numbers to 30" 351
+        "Lesson 26.1 Count to 30" 353
+        "Lesson 26.2 Count to 30 by 2s" 356
+        "Lesson 26.3 Combinations of “20 and Some More”" 358
+        "Lesson 26.4 Written Numbers to 30" 361
+        "Week 26 Answer Key" 364
+    "Week 27 Numbers to 50" 365
+        "Lesson 27.1 Count to 50 by 1s and 2s" 367
+        "Lesson 27.2 Count to 50 by 10s" 369
+        "Lesson 27.3 Read Numbers 31-50" 372
+        "Lesson 27.4 Count Tallies by 5s to 50" 375
+        "Week 27 Answer Key" 377
+    "Week 28 Numbers to 100" 378
+        "Lesson 28.1 Count to 100" 380
+        "Lesson 28.2 Ten 10s Craft Project" 382
+        "Lesson 28.3 Count to 100 by 5s" 384
+        "Lesson 28.4 Read Numbers on the 100 Chart" 386
+        "Week 28 Answer Key" 388
+    "Unit 9 Checkpoint" 389
+"Unit 10 Time" 390
+    "Week 29 Months and Days of the Week" 391
+        "Lesson 29.1 Months" 393
+        "Lesson 29.2 Months, Part 2" 395
+        "Lesson 29.3 Days of the Month" 397
+        "Lesson 29.4 Days of the Week" 399
+        "Week 29 Answer Key" 401
+    "Week 30 Time of Day" 402
+        "Lesson 30.1 Times of Day" 404
+        "Lesson 30.2 Hours, Minutes, and Seconds" 407
+        "Lesson 30.3 My Day" 409
+        "Lesson 30.4 Read Written Times to the Hour" 411
+        "Week 30 Answer Key" 413
+    "Week 31 Read Clocks to the Hour" 414
+        "Lesson 31.1 Read Digital Clocks to the Hour" 416
+        "Lesson 31.2 Introduce Clocks with Hands" 419
+        "Lesson 31.3 Read Clocks with Hands to the Hour" 422
+        "Lesson 31.4 Read Clocks with Hands to the Hour, Part 2" 424
+        "Week 31 Answer Key" 426
+    "Unit 10 Checkpoint" 427
+"Week 32 Review and Celebrate" 428
+    "Lesson 32.1 Review Numbers to 10" 429
+    "Lesson 32.2 Review Shapes, Patterns, Directions, and Measurement " 431
+    "Lesson 32.3 Review Numbers to 100" 433
+    "Lesson 32.4 What I Learned This Year" 435
+    "Week 32 Answer Key" 436
+"Scope and Sequence" 437
+"Complete List of Math Books of the Week" 439
+"Materials List" 441
+"Ten-frame (Blackline Master 1)" 442
+"Play Money for Families Outside the US (Blackline Master 2)" 444
+"Pattern Block Templates (Blackline Master 3)" 446
+"Double ten-frames (Blackline Master 4)" 452
+"Number Examples (Blackline Master 5)" 454
+"Centimeter Squares (Blackline Master 6)" 456
+"100 Chart (Blackline Master 7)" 458
+"Acknowledgements" 460
