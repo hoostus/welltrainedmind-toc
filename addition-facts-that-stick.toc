@@ -1,0 +1,37 @@
+"Table of Contents" 6
+"Preface" 8
+"Introduction" 10
+"How to Use This Book" 14
+"Week 1: Adding One and Two" 18
+    "Week 1 at a Glance" 19
+    "Day 1: New Teaching" 20
+    "Days 2-5: Race to Ten and Practice Pages" 24
+"Week 2: Pairs that Make Ten" 26
+    "Week 2 at a Glance" 27
+    "Day 1: New Teaching" 28
+    "Days 2-5: Tens Go Fish and Practice Pages" 31
+"Week 3: Sums Less Than Ten" 32
+    "Week 3 at a Glance" 33
+    "Day 1: New Teaching" 34
+    "Days 2-5: Climb to the Top and Practice Pages" 37
+"Week 4: Adding Nine" 38
+    "Week 4 at a Glance" 39
+    "Day 1: New Teaching" 40
+    "Days 2-5: Adding Nines Bingo and Practice Pages" 43
+"Week 5: Adding Eight" 44
+    "Week 5 at a Glance" 45
+    "Day 1: New Teaching" 46
+    "Days 2-5: Adding Eights and Practice Pages" 49
+"Week 6: Look at the Leftovers" 50
+    "Week 6 at a Glance" 51
+    "Day 1: New Teaching" 52
+    "Days 2-5: Addition War and Practice Pages" 55
+"Game Boards" 56
+"Practice Pages" 76
+    "Week 1" 78
+    "Week 2" 86
+    "Week 3" 94
+    "Week 4" 102
+    "Week 5" 110
+    "Week 6" 118
+"Answer Keys" 126
