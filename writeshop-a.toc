@@ -1,0 +1,98 @@
+"Welcome and Introduction" 8
+"Planning Your Schedule" 10
+"Teaching Children at Different Levels" 14
+"Materials and Supplies" 15
+"Creating a Writing Center" 16
+"Teaching the Lessons" 19
+"Lesson 1: Welcome to WriteShop Primary" 28
+    "Activity Set 1:1" 30
+    "Activity Set 1:2" 32
+    "Activity Set 1:3" 33
+    "Activity Set 1:4" 34
+    "Activity Set 1:5" 36
+    "Activity Set 1:6" 37
+    "Activity Set 1:7" 38
+    "Activity Set 1:8" 40
+"Lesson 2: All About Me" 42
+    "Activity Set 2:1" 44
+    "Activity Set 2:2" 45
+    "Activity Set 2:3" 48
+    "Activity Set 2:4" 49
+    "Activity Set 2:5" 51
+    "Activity Set 2:6" 52
+    "Activity Set 2:7" 53
+    "Activity Set 2:8" 54
+"Lesson 3: Choosing a Topic" 56
+    "Activity Set 3:1" 58
+    "Activity Set 3:2" 60
+    "Activity Set 3:3" 62
+    "Activity Set 3:4" 63
+    "Activity Set 3:5" 64
+    "Activity Set 3:6" 65
+    "Activity Set 3:7" 66
+    "Activity Set 3:8" 67
+"Lesson 4: The Main Idea" 68
+    "Activity Set 4:1" 69
+    "Activity Set 4:2" 71
+    "Activity Set 4:3" 72
+    "Activity Set 4:4" 73
+    "Activity Set 4:5" 75
+    "Activity Set 4:6" 76
+    "Activity Set 4:7" 77
+    "Activity Set 4:8" 78
+"Lesson 5: Story Structure" 80
+    "Activity Set 5:1" 82
+    "Activity Set 5:2" 83
+    "Activity Set 5:3" 85
+    "Activity Set 5:4" 87
+    "Activity Set 5:5" 89
+    "Activity Set 5:6" 90
+    "Activity Set 5:7" 91
+    "Activity Set 5:8" 92
+"Lesson 6: Punctuation" 94
+    "Activity Set 6:1" 96
+    "Activity Set 6:2" 99
+    "Activity Set 6:3" 102
+    "Activity Set 6:4" 104
+    "Activity Set 6:5" 107
+    "Activity Set 6:6" 108
+    "Activity Set 6:7" 109
+    "Activity Set 6:8" 110
+"Lesson 7: Writing with Rhyme" 112
+    "Activity Set 7:1" 114
+    "Activity Set 7:2" 116
+    "Activity Set 7:3" 119
+    "Activity Set 7:4" 123
+    "Activity Set 7:5" 125
+    "Activity Set 7:6" 126
+    "Activity Set 7:7" 127
+    "Activity Set 7:8" 129
+"Lesson 8: Organizing Ideas" 132
+    "Activity Set 8:1" 134
+    "Activity Set 8:2" 136
+    "Activity Set 8:3" 138
+    "Activity Set 8:4" 141
+    "Activity Set 8:5" 143
+    "Activity Set 8:6" 144
+    "Activity Set 8:7" 145
+    "Activity Set 8:8" 147
+"Lesson 9: Writing from Personal Experience" 150
+    "Activity Set 9:1" 152
+    "Activity Set 9:2" 154
+    "Activity Set 9:3" 156
+    "Activity Set 9:4" 158
+    "Activity Set 9:5" 160
+    "Activity Set 9:6" 161
+    "Activity Set 9:7" 162
+    "Activity Set 9:8" 164
+"Lesson 10: Sequence of Events" 166
+    "Activity Set 10:1" 168
+    "Activity Set 10:2" 171
+    "Activity Set 10:3" 173
+    "Activity Set 10:4" 175
+    "Activity Set 10:5" 177
+    "Activity Set 10:6" 179
+    "Activity Set 10:7" 180
+    "Activity Set 10:8" 182
+"Appendix" 184
+"Index" 191
