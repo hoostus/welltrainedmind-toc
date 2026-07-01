@@ -1,0 +1,100 @@
+"Welcome and Introduction" 10
+"Planning Your Schedule" 12
+"Teaching Children at Different Levels" 15
+"Materials and Supplies" 16
+"Creating a Writing Center" 17
+"Teaching the Lessons" 20
+"Using the Super Speller!" 35
+"Before You Begin Book B" 38
+"Lesson 1: Writing a Letter" 42
+    "Activity Set 1:1" 45
+    "Activity Set 1:2" 47
+    "Activity Set 1:3" 53
+    "Activity Set 1:4" 56
+    "Activity Set 1:5" 58
+    "Activity Set 1:6" 60
+    "Activity Set 1:7" 61
+    "Activity Set 1:8" 62
+"Lesson 2: Standard Spelling" 64
+    "Activity Set 2:1" 66
+    "Activity Set 2:2" 67
+    "Activity Set 2:3" 72
+    "Activity Set 2:4" 75
+    "Activity Set 2:5" 77
+    "Activity Set 2:6" 78
+    "Activity Set 2:7" 79
+    "Activity Set 2:8" 80
+"Lesson 3: Acrostics" 82
+    "Activity Set 3:1" 84
+    "Activity Set 3:2" 86
+    "Activity Set 3:3" 90
+    "Activity Set 3:4" 92
+    "Activity Set 3:5" 94
+    "Activity Set 3:6" 96
+    "Activity Set 3:7" 97
+    "Activity Set 3:8" 98
+"Lesson 4: Poems and Nursery Rhymes" 100
+    "Activity Set 4:1" 102
+    "Activity Set 4:2" 103
+    "Activity Set 4:3" 106
+    "Activity Set 4:4" 109
+    "Activity Set 4:5" 111
+    "Activity Set 4:6" 112
+    "Activity Set 4:7" 113
+    "Activity Set 4:8" 114
+"Lesson 5: Fairy Tales" 116
+    "Activity Set 5:1" 118
+    "Activity Set 5:2" 119
+    "Activity Set 5:3" 122
+    "Activity Set 5:4" 124
+    "Activity Set 5:5" 125
+    "Activity Set 5:6" 127
+    "Activity Set 5:7" 128
+    "Activity Set 5:8" 129
+"Lesson 6: In the News" 130
+    "Activity Set 6:1" 132
+    "Activity Set 6:2" 134
+    "Activity Set 6:3" 137
+    "Activity Set 6:4" 141
+    "Activity Set 6:5" 143
+    "Activity Set 6:6" 144
+    "Activity Set 6:7" 145
+    "Activity Set 6:8" 146
+"Lesson 7: Humor" 148
+    "Activity Set 7:1" 150
+    "Activity Set 7:2" 151
+    "Activity Set 7:3" 155
+    "Activity Set 7:4" 157
+    "Activity Set 7:5" 158
+    "Activity Set 7:6" 159
+    "Activity Set 7:7" 160
+    "Activity Set 7:8" 161
+"Lesson 8: Problem and Solution" 162
+    "Activity Set 8:1" 164
+    "Activity Set 8:2" 165
+    "Activity Set 8:3" 169
+    "Activity Set 8:4" 171
+    "Activity Set 8:5" 172
+    "Activity Set 8:6" 173
+    "Activity Set 8:7" 174
+    "Activity Set 8:8" 176
+"Lesson 9: Character and Setting" 178
+    "Activity Set 9:1" 180
+    "Activity Set 9:2" 181
+    "Activity Set 9:3" 184
+    "Activity Set 9:4" 187
+    "Activity Set 9:5" 188
+    "Activity Set 9:6" 189
+    "Activity Set 9:7" 190
+    "Activity Set 9:8" 191
+"Lesson 10: Story Organizers" 194
+    "Activity Set 10:1" 196
+    "Activity Set 10:2" 197
+    "Activity Set 10:3" 200
+    "Activity Set 10:4" 202
+    "Activity Set 10:5" 204
+    "Activity Set 10:6" 205
+    "Activity Set 10:7" 206
+    "Activity Set 10:8" 207
+"Appendix" 208
+"Index" 219
